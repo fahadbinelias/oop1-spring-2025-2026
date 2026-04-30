@@ -1,4 +1,4 @@
-package problem;
+
 
 class Vehicle{
     public double speed(){

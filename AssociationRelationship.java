@@ -1,6 +1,4 @@
-package problem;
- 
-class Company {
+ class Company {
     private String companyName;
     private Employee[] employees;
     private int count = 0;
