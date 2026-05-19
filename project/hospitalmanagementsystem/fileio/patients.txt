@@ -2,4 +2,4 @@
 12345673,Ahnaf Abedin,18,Allergy
 23456780,Arham Abedin,19,Measles
 24567876,Rahim,29,Cancer
-12345789,Rafique Uddin Ansary,50,Blood Cancer
+12345789,himel,25,Whitiny
